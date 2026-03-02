@@ -45,4 +45,5 @@ brew install colima # VM Linux che fa girare il demone Docker
 brew install docker
 
 brew install uv
+brew install tfenv
 ```
